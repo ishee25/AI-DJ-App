@@ -1,0 +1,38 @@
+body{
+    background-size: cover;
+}
+
+.header{
+    width: 100%;
+    font-size: 25px;
+    margin: 0px;
+}
+
+.note{
+    color: white;
+    font-size: 20px;
+}
+
+#speed_div{
+    float: left;
+}
+
+.div_img{
+    width: 300px;
+    border-radius: 60%;
+}
+
+#volume_div{
+    float: right;
+}
+
+.div_img_2{
+    width: 300px;
+    border-radius: 60%;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 150px;
+}
